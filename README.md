@@ -12,7 +12,7 @@
  - Dozent: Benjamin Roth
  - Vorlesungsorganisation: Luisa Berlanda
  - Übung: Daniel Weber
- - Tutoren: Felip Guimerà Cuevas, Ziad Elsayes 
+ - Tutoren: Felip Guimerà Cuevas, Falk Spellerberg 
 
 Sie erreichen den Dozenten und die Tutoren unter:
 
