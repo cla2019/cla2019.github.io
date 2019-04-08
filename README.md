@@ -20,11 +20,11 @@ cla2019 [at] cis [dot] uni [minus] muenchen [dot] de
 
  Anmeldung zur Vorlesung:
  - Studenten mit Computerlinguistik als Hauptfach, und nicht-Informatiker melden sich bitte über das LSF zur Vorlesung an.
- - Studenten mit Informatik als Hauptfach benutzen bitte das Webformular
+ - Studenten mit Informatik als Hauptfach benutzen bitte das [Webformular](https://docs.google.com/forms/d/1ze1Y-pY31tmaOVI9p8BM_5ao1K-Cg114_z-fHD9xL9w/viewform?edit_requested=true)
  
-Für die Übungen benötigen Sie einen GitLab Account des IFI:  [Mehr Informationen](https://www.rz.ifi.lmu.de/infos/gitlab_de.html){:target="_blank"}
+Für die Übungen benötigen Sie einen GitLab Account des IFI:  [Mehr Informationen](https://www.rz.ifi.lmu.de/infos/gitlab_de.html)
 
-Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: Webformular
+Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://docs.google.com/forms/d/1ZFPKv0cNbHVd8DEhM3i_IsbeHD-gQvAJA5lCpanBzp0/viewform?edit_requested=true)
 
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
