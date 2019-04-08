@@ -26,6 +26,10 @@ Für die Übungen benötigen Sie einen GitLab Account des IFI:  [Mehr Informatio
 
 Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://docs.google.com/forms/d/1ZFPKv0cNbHVd8DEhM3i_IsbeHD-gQvAJA5lCpanBzp0/viewform?edit_requested=true)
 
+Ausgabe neues Übungsblatt: Mittwochs nach der Übung  
+Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:red">**14:00 Uhr**</span> 
+
+
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
 |24.04.| | | |
