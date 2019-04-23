@@ -32,6 +32,7 @@ Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:
 
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
+||||[**PyCharm Intro (optional, jedoch vorteilhaft zur Übungsbearbeitung)**](pycharm.pdf), <br/>[**Tips (Coding Basics)**](tipps.pdf)|
 |24.04.| | | |
 |25.04.| | | |
 |01.05.| Feiertag/ Tag der Arbeit | | |
