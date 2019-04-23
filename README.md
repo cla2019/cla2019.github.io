@@ -3,8 +3,8 @@
 ### Sommersemester 2019
 ### Centrum für Informations- und Sprachverarbeitung, LMU München
 
- - Zeit/Vorlesung: Mi 16:00-17:00, Do 14:00-16:00
- - Zeit/Übung: Mi 14:00-16:00
+ - Zeit/Vorlesung: Mi 16:00-17:00, Do 14:00-16:00 (Erste Sitzung: Mi 24.4., 14:00 - 16:00)
+ - Zeit/Übung: Mi 14:00-16:00 (Erste Sitzung: Mi 24.4., 16:00 - 17:00)
  - Ort/Vorlesung und Übung: Hörsaal L 155, Oettingenstr. 67
  - Zeit/Tutorat: Do 16:00 - 18:00
  - Ort/Tutorat: TBA
