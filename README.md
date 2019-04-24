@@ -33,7 +33,7 @@ Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
 ||||[**PyCharm Intro (optional, jedoch vorteilhaft zur Übungsbearbeitung)**](pycharm.pdf), <br/>[**Tips (Coding Basics)**](tipps.pdf)|
-|24.04.| | | |
+|24.04.|[Course Overview](01_overview.pdf); <br/>[Machine Learning Basics](01_machine_learning.pdf); <br/>[Perzeptron](01_perceptron_short.pdf) | <br/><br/><br/><br/>[Homework 1](hw01_perceptron.pdf) | Hal Daume [(pdf)](http://www.ciml.info/dl/v0_99/ciml-v0_99-ch04.pdf), <br/><br/><br/>[enron.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/enron.tgz) |
 |25.04.| | | |
 |01.05.| Feiertag/ Tag der Arbeit | | |
 |02.05.| | | |
