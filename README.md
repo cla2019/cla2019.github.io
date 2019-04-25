@@ -7,7 +7,7 @@
  - Zeit/Übung: Mi 14:00-16:00 (c.t.)
  - Ort/Vorlesung und Übung: Hörsaal L 155, Oettingenstr. 67
  - Zeit/Tutorat: Do 16:00 - 18:00 (c.t.)
- - Ort/Tutorat: TBA
+ - Ort/Tutorat: CIP-Räume Sibirien und Gobi
 
  - Dozent: Benjamin Roth
  - Vorlesungsorganisation: Luisa März
