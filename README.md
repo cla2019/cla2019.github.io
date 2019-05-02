@@ -36,7 +36,7 @@ Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:
 |24.04.|[Course Overview](01_overview.pdf); <br/>[Machine Learning Basics](01_machine_learning.pdf); <br/><br/><br/> [Einführung in Git](ue_01_git_intro.pdf); <br/>[Unittest](ue1_unittest.pdf); <br/>[Übung1](CLA_uebung.pdf)| <br/><br/><br/><br/>[Homework 1](hw01_perceptron.pdf) | Hal Daume [(pdf)](http://www.ciml.info/dl/v0_99/ciml-v0_99-ch04.pdf), <br/><br/><br/>[enron.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/enron.tgz) |
 |25.04.| [Perzeptron](01_perceptron_short.pdf)| | |
 |01.05.| Feiertag/ Tag der Arbeit | | |
-|02.05.| | | |
+|02.05.| [Naive Bayes](02_naive_bayes.pdf) | | |
 |08.05.| | | |
 |09.05.| | | |
 |15.05.| | | |
