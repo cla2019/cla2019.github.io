@@ -37,7 +37,7 @@ Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:
 |25.04.| [Perzeptron](01_perceptron_short.pdf)| | |
 |01.05.| Feiertag/ Tag der Arbeit | | |
 |02.05.| [Naive Bayes](02_naive_bayes.pdf) | | Literatur: Jurafsky&Martin [(pdf)](https://web.stanford.edu/%7Ejurafsky/slp3/6.pdf) |
-|08.05.| Naive Bayes (ctd.) | | Übungsfragen in [Moodle](https://moodle.lmu.de/course/view.php?id=5144) (freiwillig); Einschreibeschlüssel: cla2019moodle |
+|08.05.| Naive Bayes (ctd.) | [Homework 2](hw02_naive_bayes.pdf) | Übungsfragen in [Moodle](https://moodle.lmu.de/course/view.php?id=5144) (freiwillig); Einschreibeschlüssel: cla2019moodle |
 |09.05.| | | |
 |15.05.| | | |
 |16.05.| | | |
