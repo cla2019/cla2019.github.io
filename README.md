@@ -39,8 +39,8 @@ Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:
 |02.05.| [Naive Bayes](02_naive_bayes.pdf) | | Literatur: Jurafsky&Martin [(pdf)](https://web.stanford.edu/%7Ejurafsky/slp3/6.pdf) |
 |08.05.| Naive Bayes (ctd.) | [Homework 2](hw02_naive_bayes.pdf) | Übungsfragen in [Moodle](https://moodle.lmu.de/course/view.php?id=5144) (freiwillig); Einschreibeschlüssel: cla2019moodle |
 |09.05.| [Paraphrase detection; Scikit-learn; Numpy](paraphrases_scikit_numpy.pdf)  | | |
-|15.05.| [MaxEnt Classificator](scikit_classification.pdf); <br/> [SVM](thang_vu_svm.pdf) | | |
-|16.05.| | | |
+|15.05.| Scikit-learn; Numpy (ctd.)| | |
+|16.05.| [MaxEnt Classificator](scikit_classification.pdf); <br/> [SVM](thang_vu_svm.pdf) | | |
 |22.05.| | | |
 |23.05.| | | |
 |29.05.| | | |
