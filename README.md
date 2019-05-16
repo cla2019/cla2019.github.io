@@ -40,7 +40,7 @@ Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:
 |08.05.| Naive Bayes (ctd.) | [Homework 2](hw02_naive_bayes.pdf) | Übungsfragen in [Moodle](https://moodle.lmu.de/course/view.php?id=5144) (freiwillig); Einschreibeschlüssel: cla2019moodle |
 |09.05.| [Paraphrase detection; Scikit-learn; Numpy](paraphrases_scikit_numpy.pdf)  | | |
 |15.05.| Scikit-learn; Numpy (ctd.)| | |
-|16.05.| [MaxEnt Classificator](scikit_classification.pdf); <br/> [SVM](thang_vu_svm.pdf) | [Homework 3](hw03_paraphrases.pdf.pdf) | [paraphrases.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/paraphrases.tgz) |
+|16.05.| [MaxEnt Classificator](scikit_classification.pdf); <br/> [SVM](thang_vu_svm.pdf) | [Homework 3](hw03_paraphrases.pdf) | [paraphrases.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/paraphrases.tgz) |
 |22.05.| | | |
 |23.05.| | | |
 |29.05.| | | |
