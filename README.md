@@ -41,7 +41,7 @@ Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:
 |09.05.| [Paraphrase detection; Scikit-learn; Numpy](paraphrases_scikit_numpy.pdf)  | | |
 |15.05.| Scikit-learn; Numpy (ctd.)| | |
 |16.05.| [MaxEnt Classificator](scikit_classification.pdf); <br/> [SVM](thang_vu_svm.pdf) | [Homework 3](hw03_paraphrases.pdf) | [paraphrases.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/paraphrases.tgz) |
-|22.05.| | | |
+|22.05.|  [Wort-Repräsentationen 1](wordspace.pdf)| | [Wikipedia word space](http://www.cis.uni-muenchen.de/schuetze/intro/tmp/); [Tensorflow Projector](http://projector.tensorflow.org/)|
 |23.05.| | | |
 |29.05.| | | |
 |30.05.| Feiertag/ Christi Himmelfahrt| | |
