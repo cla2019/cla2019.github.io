@@ -39,10 +39,10 @@ Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:
 |02.05.| [Naive Bayes](02_naive_bayes.pdf) | | Literatur: Jurafsky&Martin [(pdf)](https://web.stanford.edu/%7Ejurafsky/slp3/6.pdf) |
 |08.05.| Naive Bayes (ctd.) | [Homework 2](hw02_naive_bayes.pdf) | Übungsfragen in [Moodle](https://moodle.lmu.de/course/view.php?id=5144) (freiwillig); Einschreibeschlüssel: cla2019moodle |
 |09.05.| [Paraphrase detection; Scikit-learn; Numpy](paraphrases_scikit_numpy.pdf)  | | |
-|15.05.| Scikit-learn; Numpy (ctd.)| | |
-|16.05.| [MaxEnt Classificator](scikit_classification.pdf); <br/> [SVM](thang_vu_svm.pdf) | [Homework 3](hw03_paraphrases.pdf) | [paraphrases.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/paraphrases.tgz) |
+|15.05.| Scikit-learn; Numpy (ctd.)|  [Homework 3](hw03_paraphrases.pdf) | [paraphrases.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/paraphrases.tgz)  |
+|16.05.| [MaxEnt Classificator](scikit_classification.pdf); <br/> [SVM](thang_vu_svm.pdf) | | |
 |22.05.|  [Wort-Repräsentationen 1](wordspace.pdf)| [Homework 4](hw04_sklearn_paraphrases.pdf) | [Wikipedia word space](http://www.cis.uni-muenchen.de/schuetze/intro/tmp/); [Tensorflow Projector](http://projector.tensorflow.org/)|
-|23.05.| | | |
+|23.05.| Wortrepräsentationen 1 (ctd.)| | |
 |29.05.| | | |
 |30.05.| Feiertag/ Christi Himmelfahrt| | |
 |05.06.| | | |
