@@ -43,7 +43,7 @@ Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:
 |16.05.| [MaxEnt Classificator](scikit_classification.pdf); <br/> [SVM](thang_vu_svm.pdf) | | |
 |22.05.|  [Wort-Repräsentationen 1](wordspace.pdf)| [Homework 4](hw04_sklearn_paraphrases.pdf) | [Wikipedia word space](http://www.cis.uni-muenchen.de/schuetze/intro/tmp/); [Tensorflow Projector](http://projector.tensorflow.org/)|
 |23.05.| Wortrepräsentationen 1 (ctd.)| | |
-|29.05.| [Word-Embeddings durch Matrix-Faktorisierung](embedmatrix.pdf) ; [Implementierung](cla2018.github.io/word_similarity.pdf) | | |
+|29.05.| [Word-Embeddings durch Matrix-Faktorisierung](embedmatrix.pdf) ; [Implementierung](cla2018.github.io/word_similarity.pdf) | [Homework 5](cooccurrences.pdf)| |
 |30.05.| Feiertag/ Christi Himmelfahrt| | |
 |05.06.| | | |
 |06.06.| | | |
