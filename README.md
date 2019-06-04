@@ -45,7 +45,7 @@ Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:
 |23.05.| Wortrepräsentationen 1 (ctd.)| | |
 |29.05.| [Word-Embeddings durch Matrix-Faktorisierung](embedmatrix.pdf) ; [Implementierung](word_similarity.pdf) | [Homework 5](cooccurrences.pdf)| |
 |30.05.| Feiertag/ Christi Himmelfahrt| | |
-|05.06.| | | |
+|05.06.| **Übung und Vorlesung fallen aus** | | |
 |06.06.| | | |
 |12.06.| | | |
 |13.06.| | | |
