@@ -46,7 +46,7 @@ Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:
 |29.05.| [Representation learning for NLP](http://www.benjaminroth.net/lyon_keynote.pdf) | [Homework 5](cooccurrences.pdf)| |
 |30.05.| Feiertag/ Christi Himmelfahrt| | |
 |05.06.| **Übung und Vorlesung fallen aus** | | |
-|06.06.| Word-Embeddings durch Matrix-Faktorisierung| | |
+|06.06.| [Word-Embeddings durch Matrix-Faktorisierung](embedmatrix.pdf)| | |
 |12.06.| | | |
 |13.06.| | | |
 |19.06.| | | |
