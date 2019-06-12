@@ -47,7 +47,7 @@ Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:
 |30.05.| Feiertag/ Christi Himmelfahrt| | |
 |05.06.| **Übung und Vorlesung fallen aus** | | |
 |06.06.| [Word-Embeddings durch Matrix-Faktorisierung](embedmatrix.pdf)| | |
-|12.06.| | | |
+|12.06.| [Implementierung](word_similarity.pdf)| | |
 |13.06.| | | |
 |19.06.| | | |
 |20.06.| Feiertag/ Fronleichnam |  | |
