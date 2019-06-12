@@ -3,6 +3,9 @@
 ### Sommersemester 2019
 ### Centrum für Informations- und Sprachverarbeitung, LMU München
 
+**Die Klausur findet am Donnerstag den 25.7.2019 von 14 bis 16 statt. Es sind keine Hilfsmittel erlaubt.**
+
+
  - Zeit/Vorlesung: Mi 16:00-17:00 (s.t.), Do 14:00-16:00 (c.t.)
  - Zeit/Übung: Mi 14:00-16:00 (c.t.)
  - Ort/Vorlesung und Übung: Hörsaal L 155, Oettingenstr. 67
