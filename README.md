@@ -63,4 +63,5 @@ Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:
 |17.07.| | | |
 |18.07.| | | |
 |24.07.| | | |
-|25.07.| | | |
+|25.07.| <span style="color:red">**Klausur**</span> 
+| | |
