@@ -52,7 +52,7 @@ Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:
 |06.06.| [Word-Embeddings durch Matrix-Faktorisierung](embedmatrix.pdf)| | |
 |12.06.| [Implementierung](word_similarity.pdf)| [Homework 6](hw06_word_similarity.pdf) | [Solution Code Snippet](cooc_func.nopy) |
 |13.06.| [Skipgram (Word2Vec)](embedgd.pdf); [Implementierung](word2vec.pdf) | | [Wikipedia word space](http://www.cis.uni-muenchen.de/schuetze/intro/tmp/); [Tensorflow Projector](http://projector.tensorflow.org/) |
-|19.06.| | | |
+|19.06.| Skipgram (Word2Vec), Implementierung (ctd.) | [Homework 7](hw07_skipgram.pdf) | |
 |20.06.| Feiertag/ Fronleichnam |  | |
 |26.06.| | | |
 |27.06.| | | |
