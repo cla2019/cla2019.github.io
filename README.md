@@ -55,7 +55,7 @@ Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:
 |19.06.| Skipgram (Word2Vec), Implementierung (ctd.) | [Homework 7](hw07_skipgram.pdf) | |
 |20.06.| Feiertag/ Fronleichnam |  | |
 |26.06.| [Applications of word vectors](word_vectors_applications.pdf) | | |
-|27.06.| | | |
+|27.06.| Applications of word vectors (ctd.)| [Homework 8](hw08_entity_types.pdf) |  [entities_types.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/entities_types.tgz)|
 |03.07.| | | |
 |04.07.| | | |
 |10.07.| | | |
