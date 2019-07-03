@@ -56,7 +56,7 @@ Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:
 |20.06.| Feiertag/ Fronleichnam |  | |
 |26.06.| [Applications of word vectors](word_vectors_applications.pdf) | | |
 |27.06.| Applications of word vectors (ctd.)| [Homework 8](hw08_entity_types.pdf) |  [entities_types.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/entities_types.tgz)|
-|03.07.| | | |
+|03.07.| [Neural networks](neural_networks.pdf) | | |
 |04.07.| | | |
 |10.07.| | | |
 |11.07.| | | |
