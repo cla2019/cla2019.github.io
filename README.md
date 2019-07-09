@@ -58,10 +58,10 @@ Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:
 |27.06.| Applications of word vectors (ctd.)| [Homework 8](hw08_entity_types.pdf) |  [entities_types.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/entities_types.tgz)|
 |03.07.| [Neural networks; Keras](neural_networks.pdf) | | |
 |04.07.| Keras (ctd.); CNNs for images [(.pptx)](cnn.pptx) [(.pdf)](cnn.pdf); [CNNs for Text](convolution_pooling.pdf) | | |
-|10.07.| | | |
-|11.07.| | | |
-|17.07.| | | |
-|18.07.| | | |
+|10.07.| CNNs (ctd)| Homework 9 | Probeklausur |
+|11.07.| Representation learning for NLP;<br/>Fragestunde zum Stoff der Vorlesung | | |
+|17.07.| Fragestunde | | |
+|18.07.| Besprechung der Probeklausur | | |
 |24.07.| | | |
 |25.07.| <span style="color:red">**Klausur**</span> 
 | | |
