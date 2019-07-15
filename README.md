@@ -8,6 +8,8 @@ Studenten mit Informatik als Hauptfach melden sich bitte bis Montag, 22.7., übe
  - Studierende mit Hauptfach Computerlinguistik, und Studierende, deren Hauptfach über LSF verwaltet wird, schreiben in Raum BU101 [Raumplan](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw7070/map?room=7080-1101_){:target="_blank"}
  - Studierende mit Hauptfach Informatik schreiben in Raum L155
 
+
+
  - Zeit/Vorlesung: Mi 16:00-17:00 (s.t.), Do 14:00-16:00 (c.t.)
  - Zeit/Übung: Mi 14:00-16:00 (c.t.)
  - Ort/Vorlesung und Übung: Hörsaal L 155, Oettingenstr. 67
