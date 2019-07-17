@@ -68,6 +68,6 @@ Abgabe-Deadline altes Übungsblatt: Mittwochs vor der Übung <span style="color:
 |11.07.| Representation learning for NLP;<br/>Fragestunde zum Stoff der Vorlesung | | |
 |17.07.| Fragestunde | | |
 |18.07.| Besprechung der Probeklausur | | |
-|24.07.| | | |
+|24.07.| Keine Übung/Vorlesung. </br> Stattdessen Sprechstunde 14:00-15:00 in Raum C 105 möglich. | | |
 |25.07.| <span style="color:red">**Klausur**</span> 
 | | |
