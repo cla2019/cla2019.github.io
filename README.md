@@ -4,10 +4,12 @@
 ### Centrum für Informations- und Sprachverarbeitung, LMU München
 
 ---
+
 **Die Klausur findet am Donnerstag den 25.7.2019 von 14 bis 16 statt. Es sind keine Hilfsmittel erlaubt.**
 Studierende mit Informatik als Hauptfach melden sich bitte bis Montag, 22.7., über das [Webformular](https://docs.google.com/forms/d/e/1FAIpQLSd-eulBYIc9c4ZmlOrnB-fphAwE6juKAzH5sJmBlOPXWp9-Xg/viewform?usp=sf_link){:target="_blank"} an.
  - Studierende mit Hauptfach Computerlinguistik, und Studierende, deren Hauptfach über LSF verwaltet wird, schreiben in Raum BU101 [Raumplan](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw7070/map?room=7080-1101_){:target="_blank"}
  - Studierende mit Hauptfach Informatik schreiben in Raum L155
+
 ---
 
  - Zeit/Vorlesung: Mi 16:00-17:00 (s.t.), Do 14:00-16:00 (c.t.)
