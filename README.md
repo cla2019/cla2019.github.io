@@ -5,7 +5,7 @@
 
 ---
 
-**[Ergebnisse](ergebnisse_klausur){:target="_blank"} der Klausur vom 25.7.** (Für Studierende, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind - entsprechende Email-Anfragen bleiben unbeantwortet.) Klausureinsicht: Dienstag, 6.8., 9:00, Raum C 105
+**[Ergebnisse](ergebnisse_klausur) der Klausur vom 25.7.** (Für Studierende, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind - entsprechende Email-Anfragen bleiben unbeantwortet.) Klausureinsicht: Dienstag, 6.8., 9:00, Raum C 105
 
 **Die Klausur findet am Donnerstag den 25.7.2019 von 14 bis 16 statt. Es sind keine Hilfsmittel erlaubt.**
 Studierende mit Informatik als Hauptfach melden sich bitte bis Montag, 22.7., über das [Webformular](https://docs.google.com/forms/d/e/1FAIpQLSd-eulBYIc9c4ZmlOrnB-fphAwE6juKAzH5sJmBlOPXWp9-Xg/viewform?usp=sf_link){:target="_blank"} an.
