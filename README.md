@@ -5,13 +5,14 @@
 
 ---
 
-**[Ergebnisse](ergebnisse_klausur){:target="_blank"} der Klausur vom 25.7.** (Für Studierende, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind - entsprechende Email-Anfragen bleiben unbeantwortet.) Klausureinsicht: Dienstag, 6.8., 9:00, Raum C 105
-
-**Die Klausur findet am Donnerstag den 25.7.2019 von 14 bis 16 statt. Es sind keine Hilfsmittel erlaubt.**
-Studierende mit Informatik als Hauptfach melden sich bitte bis Montag, 22.7., über das [Webformular](https://docs.google.com/forms/d/e/1FAIpQLSd-eulBYIc9c4ZmlOrnB-fphAwE6juKAzH5sJmBlOPXWp9-Xg/viewform?usp=sf_link){:target="_blank"} an.
- - Studierende mit Hauptfach Computerlinguistik, und Studierende, deren Hauptfach über LSF verwaltet wird, schreiben in Raum BU101 [Raumplan](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw7070/map?room=7080-1101_){:target="_blank"}
- - Studierende mit Hauptfach Informatik schreiben in Raum L155
-
+### Nachklausur
+ - Die Nachklausur findet am Samstag, den 22.2.2020 um 10:00 statt, und dauert 90 Minuten.
+ - Der Raum wird noch bekannt gegeben. 
+ - Es sind keine Hilfsmittel erlaubt. 
+ - Studierende, deren Studienfach über LSF verwaltet wird müssen sich über das LSF anmelden.
+ - Studierende, deren Fach **nicht** über LSF verwaltet wird (Informatiker), müssen sich über ein Webformular anmelden (wird spätestens am 11.2. verlinkt).
+ 
+ 
 ---
 
  - Zeit/Vorlesung: Mi 16:00-17:00 (s.t.), Do 14:00-16:00 (c.t.)
