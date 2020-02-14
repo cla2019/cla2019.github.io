@@ -7,7 +7,7 @@
 
 ### Nachklausur
  - Die Nachklausur findet am Samstag, den 22.2.2020 um 10:00 statt, und dauert 90 Minuten.
- - Der Raum wird noch bekannt gegeben. 
+ - **Raum: Hörsaal BU101, Oettingenstr. 67**
  - Es sind keine Hilfsmittel erlaubt. 
  - Studierende, deren Studienfach über LSF verwaltet wird müssen sich über das LSF anmelden.
  - Studierende, deren Fach **nicht** über LSF verwaltet wird (Informatiker), melden sich bitte bis spätestetens 20.2.2020 über das [Webformular](https://docs.google.com/forms/d/e/1FAIpQLSeNHSKJzSMnn3UDaRNkLHYwHgXtnqkQMoZC90YKHB8ils8Ppw/viewform?usp=sf_link) an.
@@ -22,8 +22,7 @@
 
  - Dozent: Benjamin Roth
  - Vorlesungsorganisation: Luisa März
- - Übung: Daniel Weber
- - Tutoren: Felip Guimerà Cuevas, Falk Spellerberg 
+ - Tutoren: Daniel Weber, Felip Guimerà Cuevas, Falk Spellerberg 
 
 Sie erreichen den Dozenten und die Tutoren unter:
 
