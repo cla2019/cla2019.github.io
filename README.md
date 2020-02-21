@@ -10,7 +10,7 @@
  - **Raum: Hörsaal BU101, Oettingenstr. 67**
  - Es sind keine Hilfsmittel erlaubt. 
  - Studierende, deren Studienfach über LSF verwaltet wird müssen sich über das LSF anmelden.
- - Studierende, deren Fach **nicht** über LSF verwaltet wird (Informatiker), melden sich bitte bis spätestetens 20.2.2020 über das [Webformular](https://docs.google.com/forms/d/e/1FAIpQLSeNHSKJzSMnn3UDaRNkLHYwHgXtnqkQMoZC90YKHB8ils8Ppw/viewform?usp=sf_link) an.
+ - Studierende, deren Fach **nicht** über LSF verwaltet wird (Informatiker), melden sich bitte bis spätestetens 20.2.2020 über das Webformular an (Anmeldung geschlossen).
  
 ---
 
