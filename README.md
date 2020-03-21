@@ -11,7 +11,9 @@
  - Es sind keine Hilfsmittel erlaubt. 
  - Studierende, deren Studienfach über LSF verwaltet wird müssen sich über das LSF anmelden.
  - Studierende, deren Fach **nicht** über LSF verwaltet wird (Informatiker), melden sich bitte bis spätestetens 20.2.2020 über das Webformular an (Anmeldung geschlossen).
- 
+
+[Ergebnisse der Nachklausur](ergebnisse_nachklausur.md)
+
 ---
 
  - Zeit/Vorlesung: Mi 16:00-17:00 (s.t.), Do 14:00-16:00 (c.t.)
